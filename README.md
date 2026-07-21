@@ -28,7 +28,7 @@ I enjoy building software that solves real-world problems. My interests include 
 
 ## Connect
 
-[![LinkedIn](https://img.shields..io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushree-kasturi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushree-kasturi/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:anushree.kasturi06@gmail.com)
 
 *"Learning by building, one project at a time."*
