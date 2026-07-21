@@ -51,19 +51,14 @@ I enjoy building software that solves real-world problems. My interests include 
 
 ## Featured Projects
 
-### Student Performance Predictor
-A Flask-based web application that predicts student performance using machine learning. The application includes user authentication, prediction history, data visualization, and an analytics dashboard.
+### [Student Performance Predictor](https://github.com/AnushreeKasturi/student-performance-predictor)
+A machine learning web application for predicting student performance, featuring user authentication, prediction history, data visualization, and an analytics dashboard.
 
-### Heritage Explorer
-An interactive virtual museum website designed to provide an engaging and responsive user experience.
+### [Virtual Museum Explorer](https://github.com/AnushreeKasturi/virtual-museum-explorer)
+An interactive virtual museum experience designed with responsive web technologies to make cultural and historical exploration more engaging and accessible.
 
-### Atmos – Air Quality Prediction
-A machine learning project focused on analyzing and predicting air quality using environmental data.
-
-### EEG Meditation State Classification *(In Progress)*
-A research-oriented machine learning project for classifying meditation states using EEG signals.
-
----
+### [Pothole Risk Engine](https://github.com/AnushreeKasturi/Potholerisk)
+A research-oriented dynamic risk prediction system that models road accident risk using factors such as pothole density, weather, and traffic conditions.
 
 ## Currently Learning
 
