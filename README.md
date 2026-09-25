@@ -18,7 +18,7 @@ I enjoy building software that solves real-world problems. My interests include 
 
 ## Projects
 
-**[Pothole Risk Engine](https://github.com/AnushreeKasturi/Potholerisk)** — Bayesian road risk prediction using live weather, traffic, and pothole density data. Secure Node.js backend — API keys never exposed to the browser.
+**[Pothole Risk Engine](https://github.com/AnushreeKasturi/Potholerisk)** — Bayesian road risk prediction using live weather, traffic, and pothole density data. Secure Node.js backend .
 
 **[Student Performance Predictor](https://github.com/AnushreeKasturi/student-performance-predictor)** — End-to-end ML web app with authentication, prediction history, and an analytics dashboard.
 
