@@ -21,8 +21,6 @@ Currently pursuing my **B.Tech, Computer Science Engineering** and actively expl
 * Exploring **Artificial Intelligence and Machine Learning**, from model development to deploying practical ML applications
 * Participating in **technical quizzes, coding challenges and coursework-related competitions** to strengthen both theoretical knowledge and practical problem-solving
 * Actively participating in **hackathons and technical events**, collaborating on ideas and building solutions under time constraints
-* Exploring **React, Flask, Node.js and modern web development** while building projects outside the classroom
-* Strengthening fundamentals across **Data Structures, Algorithms, Object-Oriented Programming, DBMS, Computer Networks and Operating Systems**
 * Building in the intersection of **software engineering, AI/ML and real-world applications**
 
 Currently working on **Pothole Risk Engine**, **Student Performance Predictor** and **Virtual Museum Explorer**
