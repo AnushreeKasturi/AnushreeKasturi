@@ -47,5 +47,5 @@ Currently working on **Pothole Risk Engine**, **Student Performance Predictor** 
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@:AnushreeKasturi?theme=3D-num" alt="Profile views" />
+  <img src="https://count.getloli.com/@:AnushreeKasturi?theme=3d-num" alt="Profile views" />
 </p>
