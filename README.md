@@ -1,27 +1,30 @@
-# Hi, I'm Anushree Kasturi
+<table width="100%">
+  <tr>
+    <td align="left">
+      <strong>student // building, learning and experimenting.
+    </td>
+    <td align="right">
+      <a href="https://www.linkedin.com/">https://www.linkedin.com/in/anushree-kasturi/</a> ·
+      <a href="mailto:">anushree.kasturi06@gmail.com</a>
+    </td>
+  </tr>
+</table>
 
-B.Tech CS Engineering Student · Amrita Vishwa Vidyapeetham, Bengaluru
+I build software that solves real-world problems across AI-ML, full-stack development and embedded systems
 
-I enjoy building software that solves real-world problems. My interests include Artificial Intelligence, Machine Learning, Full-Stack Development, and Embedded Systems. I believe in learning by building projects, exploring new technologies, and continuously improving my technical skills.
+Currently exploring React, Artificial Intelligence, Machine Learning and embedded systems
 
----
+* Building **Pothole Risk Engine**, a Bayesian road risk prediction system using live weather, traffic and pothole density data with a secure Node.js backend
+* Building **Student Performance Predictor**, an end-to-end ML web application with authentication, prediction history and an analytics dashboard
+* Building **Virtual Museum Explorer**, a responsive and interactive virtual museum focused on accessibility and engagement
+* Studying **B.Tech Computer Science Engineering** at **Amrita Vishwa Vidyapeetham, Bengaluru**
+* Exploring new technologies and improving technical skills through hands-on projects
+* Learning by building software that connects technology with real-world problems
 
-## Projects
-
-**[Pothole Risk Engine](https://github.com/AnushreeKasturi/Potholerisk)** — Bayesian road risk prediction using live weather, traffic, and pothole density data. Secure Node.js backend .
-
-**[Student Performance Predictor](https://github.com/AnushreeKasturi/student-performance-predictor)** — End-to-end ML web app with authentication, prediction history, and an analytics dashboard.
-
-**[Virtual Museum Explorer](https://github.com/AnushreeKasturi/virtual-museum-explorer)** — Responsive, interactive virtual museum built for accessibility and engagement.
-
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anushree-kasturi/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:anushree.kasturi06@gmail.com)
+Currently working on **Pothole Risk Engine**, **Student Performance Predictor** and **Virtual Museum Explorer**
 
 ### Tech Stack
+
 <p>
   <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
   <img src="https://img.shields.io/badge/C-161B22?style=flat&logo=c&logoColor=00599C" alt="C" />
@@ -41,4 +44,8 @@ I enjoy building software that solves real-world problems. My interests include 
   <img src="https://img.shields.io/badge/VS_Code-161B22?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
   <img src="https://img.shields.io/badge/Jupyter-161B22?style=flat&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/Postman-161B22?style=flat&logo=postman&logoColor=FF6C37" alt="Postman" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/@:AnushreeKasturi?theme=3D-num" alt="Profile views" />
 </p>
