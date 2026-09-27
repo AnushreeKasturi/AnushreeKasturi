@@ -10,16 +10,24 @@
   </tr>
 </table>
 
-I build software that solves real-world problems across AI-ML, full-stack development and embedded systems
+I build software across AI/ML, full-stack development and intelligent systems, with a focus on turning ideas and real-world problems into working applications.
 
-Currently exploring React, Artificial Intelligence, Machine Learning and embedded systems
+Currently pursuing my **B.Tech, Computer Science Engineering** and actively exploring software development, machine learning, algorithms and emerging technologies.
 
-* Building **Pothole Risk Engine**, a Bayesian road risk prediction system using live weather, traffic and pothole density data with a secure Node.js backend
-* Building **Student Performance Predictor**, an end-to-end ML web application with authentication, prediction history and an analytics dashboard
+* Actively grinding **Data Structures & Algorithms**, solving problems and strengthening problem-solving skills through consistent practice
+* Building **full-stack applications** and experimenting with frontend, backend, APIs, databases and authentication
+* Building **Pothole Risk Engine**, a Bayesian road-risk prediction system using live weather, traffic and pothole-density data with a secure Node.js backend
+* Building **Student Performance Predictor**, an end-to-end ML application with authentication, prediction history and an analytics dashboard
 * Building **Virtual Museum Explorer**, a responsive and interactive virtual museum focused on accessibility and engagement
-* Studying **B.Tech Computer Science Engineering** at **Amrita Vishwa Vidyapeetham, Bengaluru**
-* Exploring new technologies and improving technical skills through hands-on projects
-* Learning by building software that connects technology with real-world problems
+* Exploring **Artificial Intelligence and Machine Learning**, from model development to deploying practical ML applications
+* Participating in **technical quizzes, coding challenges and coursework-related competitions** to strengthen both theoretical knowledge and practical problem-solving
+* Actively participating in **hackathons and technical events**, collaborating on ideas and building solutions under time constraints
+* Exploring **React, Flask, Node.js and modern web development** while building projects outside the classroom
+* Working with **databases, REST APIs and backend systems** as part of full-stack projects
+* Strengthening fundamentals across **Data Structures, Algorithms, Object-Oriented Programming, DBMS, Computer Networks and Operating Systems**
+* Experimenting with different technologies and frameworks through personal projects rather than limiting learning to coursework
+* Interested in the intersection of **software engineering, AI/ML and real-world applications**
+* Learning by building, breaking, debugging and rebuilding things until they work
 
 Currently working on **Pothole Risk Engine**, **Student Performance Predictor** and **Virtual Museum Explorer**
 
@@ -44,6 +52,19 @@ Currently working on **Pothole Risk Engine**, **Student Performance Predictor** 
   <img src="https://img.shields.io/badge/VS_Code-161B22?style=flat&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
   <img src="https://img.shields.io/badge/Jupyter-161B22?style=flat&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook" />
   <img src="https://img.shields.io/badge/Postman-161B22?style=flat&logo=postman&logoColor=FF6C37" alt="Postman" />
+  <img src="https://img.shields.io/badge/LangChain-161B22?style=flat&logo=langchain&logoColor=1C3C3C" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-161B22?style=flat&logo=langchain&logoColor=1C3C3C" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LlamaIndex-161B22?style=flat&logo=llamaindex&logoColor=FFFFFF" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/Ollama-161B22?style=flat&logo=ollama&logoColor=FFFFFF" alt="Ollama" />
+  <img src="https://img.shields.io/badge/vLLM-161B22?style=flat&logo=vllm&logoColor=FFFFFF" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Gradio-161B22?style=flat&logo=gradio&logoColor=FF7C00" alt="Gradio" />
+  <img src="https://img.shields.io/badge/Streamlit-161B22?style=flat&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-161B22?style=flat&logo=githubcopilot&logoColor=FFFFFF" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Claude_Code-161B22?style=flat&logo=anthropic&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-161B22?style=flat&logo=cursor&logoColor=FFFFFF" alt="Cursor" />
+  <img src="https://img.shields.io/badge/MCP-161B22?style=flat&logo=anthropic&logoColor=FFFFFF" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Perplexity-161B22?style=flat&logo=perplexity&logoColor=20B8CD" alt="Perplexity" />
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-161B22?style=flat&logo=weightsandbiases&logoColor=FFBE00" alt="Weights & Biases" />
 </p>
 
 <p align="center">
