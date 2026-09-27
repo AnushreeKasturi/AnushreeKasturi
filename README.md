@@ -5,7 +5,10 @@
     </td>
     <td align="right">
       <a href="https://www.linkedin.com/in/anushree-kasturi">LinkedIn</a> ·
-      <a href="mailto:anushree.kasturi06@gmail.com">Mail</a>
+      <a href="mailto:anushree.kasturi06@gmail.com">Mail</a> ·
+      <a href="https://leetcode.com/u/AnushreeKasturi/">Leetcode</a> ·    
+      <a href="https://x.com/Anushree_kastur">X</a> ·
+      <a href="https://huggingface.co/Anushree24">HuggingFace</a> 
     </td>
   </tr>
 </table>
