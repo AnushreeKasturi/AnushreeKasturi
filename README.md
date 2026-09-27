@@ -14,7 +14,6 @@ I build software across AI/ML, full-stack development and intelligent systems, w
 
 Currently pursuing my **B.Tech, Computer Science Engineering** and actively exploring software development, machine learning, algorithms and emerging technologies.
 
-* Actively grinding **Data Structures & Algorithms**, solving problems and strengthening problem-solving skills through consistent practice
 * Building **full-stack applications** and experimenting with frontend, backend, APIs, databases and authentication
 * Building **Pothole Risk Engine**, a Bayesian road-risk prediction system using live weather, traffic and pothole-density data with a secure Node.js backend
 * Building **Student Performance Predictor**, an end-to-end ML application with authentication, prediction history and an analytics dashboard
@@ -23,11 +22,8 @@ Currently pursuing my **B.Tech, Computer Science Engineering** and actively expl
 * Participating in **technical quizzes, coding challenges and coursework-related competitions** to strengthen both theoretical knowledge and practical problem-solving
 * Actively participating in **hackathons and technical events**, collaborating on ideas and building solutions under time constraints
 * Exploring **React, Flask, Node.js and modern web development** while building projects outside the classroom
-* Working with **databases, REST APIs and backend systems** as part of full-stack projects
 * Strengthening fundamentals across **Data Structures, Algorithms, Object-Oriented Programming, DBMS, Computer Networks and Operating Systems**
-* Experimenting with different technologies and frameworks through personal projects rather than limiting learning to coursework
-* Interested in the intersection of **software engineering, AI/ML and real-world applications**
-* Learning by building, breaking, debugging and rebuilding things until they work
+* Building in the intersection of **software engineering, AI/ML and real-world applications**
 
 Currently working on **Pothole Risk Engine**, **Student Performance Predictor** and **Virtual Museum Explorer**
 
