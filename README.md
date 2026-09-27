@@ -4,8 +4,8 @@
       <strong>student // building, learning and experimenting.
     </td>
     <td align="right">
-      <a href="https://www.linkedin.com/">https://www.linkedin.com/in/anushree-kasturi/</a> ·
-      <a href="mailto:">anushree.kasturi06@gmail.com</a>
+      <a href="https://www.linkedin.com/in/anushree-kasturi">LinkedIn</a> ·
+      <a href="mailto:anushree.kasturi06@gmail.com">Mail</a>
     </td>
   </tr>
 </table>
