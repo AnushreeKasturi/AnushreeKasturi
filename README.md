@@ -1,7 +1,7 @@
 <table width="100%">
   <tr>
     <td align="left">
-      <strong>student // building, learning and experimenting.
+      <strong>student @ Aseb // building, breaking and experimenting.
     </td>
     <td align="right">
       <a href="https://www.linkedin.com/in/anushree-kasturi">LinkedIn</a> ·
