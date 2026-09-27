@@ -25,7 +25,7 @@ I build software across AI/ML, full-stack development and intelligent systems, w
 
 Currently working on **Pothole Risk Engine**, **Student Performance Predictor** and **Virtual Museum Explorer**
 
-### Tech Stack
+#### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-161B22?style=flat&logo=python&logoColor=3776AB" alt="Python" />
