@@ -15,8 +15,6 @@
 
 I build software across AI/ML, full-stack development and intelligent systems, with a focus on turning ideas and real-world problems into working applications.
 
-Currently pursuing my **B.Tech, Computer Science Engineering** and actively exploring software development, machine learning, algorithms and emerging technologies.
-
 * Building **full-stack applications** and experimenting with frontend, backend, APIs, databases and authentication
 * Building **Pothole Risk Engine**, a Bayesian road-risk prediction system using live weather, traffic and pothole-density data with a secure Node.js backend
 * Building **Student Performance Predictor**, an end-to-end ML application with authentication, prediction history and an analytics dashboard
@@ -24,7 +22,6 @@ Currently pursuing my **B.Tech, Computer Science Engineering** and actively expl
 * Exploring **Artificial Intelligence and Machine Learning**, from model development to deploying practical ML applications
 * Participating in **technical quizzes, coding challenges and coursework-related competitions** to strengthen both theoretical knowledge and practical problem-solving
 * Actively participating in **hackathons and technical events**, collaborating on ideas and building solutions under time constraints
-* Building in the intersection of **software engineering, AI/ML and real-world applications**
 
 Currently working on **Pothole Risk Engine**, **Student Performance Predictor** and **Virtual Museum Explorer**
 
