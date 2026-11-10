@@ -4,6 +4,7 @@
       <strong>student @ Aseb // building, breaking and experimenting.
     </td>
     <td align="right">
+      <a href = "https://anushreekasturi.vercel.app/">Portfolio</a>
       <a href="https://www.linkedin.com/in/anushree-kasturi">LinkedIn</a> ·
       <a href="mailto:anushree.kasturi06@gmail.com">Mail</a> ·
       <a href="https://leetcode.com/u/AnushreeKasturi/">Leetcode</a> ·    
