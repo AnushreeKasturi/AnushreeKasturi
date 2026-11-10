@@ -12,6 +12,11 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub Koi" />
+</div>
+
+
 I build software across AI/ML, full-stack development and intelligent systems, with a focus on turning ideas and real-world problems into working applications.
 
 * Building full-stack and ML applications, including a Bayesian road-risk engine, a student performance predictor with analytics, and an interactive virtual museum, integrating APIs, databases, authentication, and responsive design.
