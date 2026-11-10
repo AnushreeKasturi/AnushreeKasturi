@@ -1,4 +1,4 @@
-<img width="800" height="300" alt="header" src="https://github.com/user-attachments/assets/a5f1ae08-ee2b-461e-8731-dbfd2d1be06e" /><table width="100%">
+<table width="100%">
   <tr>
     <td align="left">
       <strong>student @ Aseb // building, breaking and experimenting.
