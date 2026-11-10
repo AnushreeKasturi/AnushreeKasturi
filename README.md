@@ -7,7 +7,7 @@
       <a href = "https://anushreekasturi.vercel.app/">Portfolio</a> ·
       <a href="https://www.linkedin.com/in/anushree-kasturi">LinkedIn</a> ·
       <a href="https://leetcode.com/u/AnushreeKasturi/">Leetcode</a> ·    
-      <a href="https://x.com/Anushree_kastur">X</a> ·
+      <a href="https://x.com/Anushree_kastur">X</a>
     </td>
   </tr>
 </table>
