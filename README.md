@@ -18,6 +18,9 @@ I build software across AI/ML, full-stack development and intelligent systems, w
 * Exploring **Artificial Intelligence and Machine Learning**, from model development to deploying practical ML applications
 * Actively participating in **technical quizzes, coding challenges and Hackathons** in my spare time.
 
+![Streak](https://streak-stats.demolab.com/?user=AnushreeKasturi&theme=tokyonight)
+
+
 
 #### Tech Stack
 
