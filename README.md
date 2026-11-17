@@ -1,3 +1,4 @@
+<a href="https://gitranks.com/profile/AnushreeKasturi"><img src="https://gitranks.com/badge/user/AnushreeKasturi/tier.svg?by=contributions&amp;scheme=night" alt="AnushreeKasturi on GitRanks: gitranks Skilled"></a>
 <table width="100%">
   <tr>
     <td align="left">
